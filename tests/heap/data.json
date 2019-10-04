@@ -1,0 +1,3723 @@
+{
+  "hierarchy": {
+    "tag": "input",
+    "id": "logo",
+    "classes": [
+      "btn-large"
+    ],
+    "children": [
+      {
+        "tag": "form"
+      },
+      {
+        "tag": "form",
+        "id": "logo",
+        "children": [
+          {
+            "tag": "img",
+            "id": "symbol",
+            "classes": [
+              "btn-primary",
+              "btn"
+            ],
+            "children": [
+              {
+                "tag": "h1",
+                "id": "symbol"
+              },
+              {
+                "tag": "div",
+                "id": "symbol",
+                "classes": [
+                  "icon",
+                  "stackarea",
+                  "btn",
+                  "btn-large"
+                ],
+                "children": [
+                  {
+                    "tag": "div",
+                    "id": "logo",
+                    "classes": [
+                      "btn",
+                      "icon"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "id": "label",
+                "classes": [
+                  "btn-large"
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": [
+              "stackarea",
+              "btn"
+            ]
+          },
+          {
+            "tag": "textarea",
+            "classes": [
+              "stackarea",
+              "btn",
+              "stackbar"
+            ],
+            "children": [
+              {
+                "tag": "img",
+                "id": "label",
+                "classes": [
+                  "stackarea"
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": [
+                  "btn-large"
+                ]
+              },
+              {
+                "tag": "div",
+                "id": "symbol",
+                "classes": [
+                  "btn"
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "img",
+            "id": "symbol",
+            "classes": [
+              "btn-large"
+            ]
+          },
+          {
+            "tag": "div",
+            "id": "symbol",
+            "classes": [
+              "stackarea"
+            ],
+            "children": [
+              {
+                "tag": "div",
+                "children": [
+                  {
+                    "tag": "h2",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "symbol",
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "symbol",
+                            "children": [
+                              {
+                                "tag": "form",
+                                "id": "logo"
+                              },
+                              {
+                                "tag": "div",
+                                "id": "label",
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "classes": [
+                                      "stackarea"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "logo"
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "label",
+                                    "classes": [
+                                      "stackarea"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "textarea",
+                                    "children": [
+                                      {
+                                        "tag": "input",
+                                        "classes": [
+                                          "stackbar"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "label"
+                                  },
+                                  {
+                                    "tag": "input",
+                                    "id": "logo",
+                                    "children": [
+                                      {
+                                        "tag": "h1",
+                                        "id": "label",
+                                        "classes": [
+                                          "icon",
+                                          "btn"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "h2",
+                                            "id": "symbol"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "classes": [
+                                          "icon"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "textarea",
+                                            "id": "label"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "input",
+                                        "children": [
+                                          {
+                                            "tag": "input",
+                                            "id": "logo",
+                                            "classes": [
+                                              "btn-large",
+                                              "icon"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "div"
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "id": "symbol",
+                                                "children": [
+                                                  {
+                                                    "tag": "h2",
+                                                    "classes": [
+                                                      "icon",
+                                                      "btn-primary",
+                                                      "btn"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "input",
+                                            "classes": [
+                                              "stackarea"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "h1",
+                                                "id": "label",
+                                                "children": [
+                                                  {
+                                                    "tag": "form"
+                                                  },
+                                                  {
+                                                    "tag": "form",
+                                                    "id": "symbol",
+                                                    "children": [
+                                                      {
+                                                        "tag": "form",
+                                                        "id": "label"
+                                                      },
+                                                      {
+                                                        "tag": "h2",
+                                                        "id": "logo",
+                                                        "children": [
+                                                          {
+                                                            "tag": "h1",
+                                                            "id": "logo",
+                                                            "children": [
+                                                              {
+                                                                "tag": "input",
+                                                                "id": "symbol",
+                                                                "classes": [
+                                                                  "icon",
+                                                                  "stackarea",
+                                                                  "btn-primary"
+                                                                ]
+                                                              },
+                                                              {
+                                                                "tag": "h2",
+                                                                "id": "label"
+                                                              },
+                                                              {
+                                                                "tag": "img",
+                                                                "id": "logo"
+                                                              },
+                                                              {
+                                                                "tag": "input",
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "id": "symbol",
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "div"
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "id": "symbol",
+                                                                "classes": [
+                                                                  "stackarea",
+                                                                  "stackbar",
+                                                                  "btn"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "h2",
+                                                            "id": "logo",
+                                                            "classes": [
+                                                              "stackarea",
+                                                              "btn",
+                                                              "btn-large"
+                                                            ],
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "id": "symbol",
+                                                                "classes": [
+                                                                  "icon"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "tag": "div"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "h2",
+                                                    "id": "symbol",
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "id": "logo",
+                                                        "classes": [
+                                                          "icon"
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "tag": "form",
+                                                            "id": "label"
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "tag": "form",
+                                                        "id": "symbol",
+                                                        "classes": [
+                                                          "stackarea",
+                                                          "btn-primary",
+                                                          "stackbar",
+                                                          "btn"
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "id": "label",
+                                                            "children": [
+                                                              {
+                                                                "tag": "h2",
+                                                                "id": "label",
+                                                                "classes": [
+                                                                  "btn-primary",
+                                                                  "btn",
+                                                                  "stackbar"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "form",
+                                                    "id": "logo",
+                                                    "children": [
+                                                      {
+                                                        "tag": "h2",
+                                                        "id": "symbol",
+                                                        "classes": [
+                                                          "icon"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "form",
+                                                "id": "logo",
+                                                "classes": [
+                                                  "stackbar",
+                                                  "stackarea",
+                                                  "btn-primary",
+                                                  "btn-large"
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "tag": "form",
+                                                    "id": "logo",
+                                                    "classes": [
+                                                      "btn-large"
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "tag": "img",
+                                                        "classes": [
+                                                          "stackbar"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "id": "logo",
+                                                "classes": [
+                                                  "btn-primary"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "input",
+                                            "id": "label",
+                                            "children": [
+                                              {
+                                                "tag": "img"
+                                              },
+                                              {
+                                                "tag": "textarea",
+                                                "id": "logo",
+                                                "classes": [
+                                                  "btn-primary"
+                                                ]
+                                              },
+                                              {
+                                                "tag": "input",
+                                                "id": "label",
+                                                "classes": [
+                                                  "stackarea"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "h2",
+                                        "id": "symbol",
+                                        "children": [
+                                          {
+                                            "tag": "form",
+                                            "children": [
+                                              {
+                                                "tag": "h2",
+                                                "id": "logo"
+                                              },
+                                              {
+                                                "tag": "img"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "textarea",
+                                        "id": "label"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "h2",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "h1",
+                                "id": "logo"
+                              },
+                              {
+                                "tag": "div",
+                                "id": "label",
+                                "children": [
+                                  {
+                                    "tag": "div"
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "input",
+                                "id": "label"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "form",
+                        "classes": [
+                          "icon",
+                          "stackarea",
+                          "btn-primary"
+                        ],
+                        "children": [
+                          {
+                            "tag": "input",
+                            "classes": [
+                              "icon"
+                            ],
+                            "children": [
+                              {
+                                "tag": "img"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "id": "logo",
+                        "classes": [
+                          "btn",
+                          "stackbar",
+                          "btn-primary",
+                          "btn-large"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "id": "logo",
+                "classes": [
+                  "btn-large"
+                ],
+                "children": [
+                  {
+                    "tag": "form",
+                    "id": "symbol",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "label",
+                        "children": [
+                          {
+                            "tag": "h1"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": [
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "h1",
+                            "id": "label"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "h2",
+            "id": "symbol",
+            "children": [
+              {
+                "tag": "div",
+                "classes": [
+                  "btn-large"
+                ],
+                "children": [
+                  {
+                    "tag": "input"
+                  },
+                  {
+                    "tag": "input",
+                    "id": "logo",
+                    "classes": [
+                      "btn"
+                    ],
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "label",
+                        "classes": [
+                          "btn-primary"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "symbol"
+                          },
+                          {
+                            "tag": "form"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "id": "logo",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "children": [
+                          {
+                            "tag": "div",
+                            "id": "logo",
+                            "classes": [
+                              "btn-large"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "classes": [
+                          "stackarea",
+                          "btn-primary",
+                          "btn"
+                        ],
+                        "children": [
+                          {
+                            "tag": "input",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "h2",
+                                "classes": [
+                                  "icon"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "id": "logo",
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "id": "logo",
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "id": "symbol",
+                                            "classes": [
+                                              "stackarea"
+                                            ]
+                                          },
+                                          {
+                                            "tag": "h2",
+                                            "id": "label"
+                                          },
+                                          {
+                                            "tag": "h1"
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "id": "logo"
+                                          },
+                                          {
+                                            "tag": "h1",
+                                            "id": "label"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "id": "symbol",
+                                "children": [
+                                  {
+                                    "tag": "input",
+                                    "classes": [
+                                      "btn-primary"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "textarea",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "img"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": [
+                      "stackbar"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "id": "label"
+              }
+            ]
+          },
+          {
+            "tag": "form",
+            "id": "logo",
+            "classes": [
+              "stackarea"
+            ],
+            "children": [
+              {
+                "tag": "input",
+                "id": "symbol"
+              },
+              {
+                "tag": "input",
+                "id": "symbol",
+                "children": [
+                  {
+                    "tag": "img",
+                    "id": "label",
+                    "classes": [
+                      "stackbar"
+                    ],
+                    "children": [
+                      {
+                        "tag": "img",
+                        "classes": [
+                          "btn-large",
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "h2",
+                            "classes": [
+                              "stackarea"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "label",
+                            "classes": [
+                              "btn",
+                              "btn-large"
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "id": "logo",
+                            "classes": [
+                              "btn-primary",
+                              "icon"
+                            ],
+                            "children": [
+                              {
+                                "tag": "div",
+                                "id": "label",
+                                "classes": [
+                                  "btn"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "h1",
+                            "id": "symbol",
+                            "children": [
+                              {
+                                "tag": "form",
+                                "classes": [
+                                  "stackarea"
+                                ]
+                              },
+                              {
+                                "tag": "input",
+                                "id": "logo",
+                                "classes": [
+                                  "stackarea"
+                                ]
+                              },
+                              {
+                                "tag": "img",
+                                "id": "logo",
+                                "children": [
+                                  {
+                                    "tag": "input",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "stackbar"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "id": "label"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "classes": [
+                              "btn-large",
+                              "icon"
+                            ],
+                            "children": [
+                              {
+                                "tag": "div",
+                                "id": "label"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "textarea",
+                        "id": "logo",
+                        "classes": [
+                          "btn-large"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "logo",
+                            "classes": [
+                              "stackbar"
+                            ],
+                            "children": [
+                              {
+                                "tag": "img",
+                                "id": "symbol"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "form",
+                    "classes": [
+                      "icon",
+                      "btn-primary",
+                      "btn"
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "id": "symbol",
+                        "classes": [
+                          "btn-large",
+                          "btn",
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "div",
+                            "id": "symbol",
+                            "classes": [
+                              "icon",
+                              "btn"
+                            ],
+                            "children": [
+                              {
+                                "tag": "input",
+                                "id": "symbol",
+                                "classes": [
+                                  "stackarea",
+                                  "btn-large",
+                                  "btn-primary"
+                                ]
+                              },
+                              {
+                                "tag": "input",
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "id": "symbol"
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "label",
+                                    "children": [
+                                      {
+                                        "tag": "input",
+                                        "id": "logo",
+                                        "classes": [
+                                          "btn"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "id": "symbol"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "id": "logo"
+                  },
+                  {
+                    "tag": "input",
+                    "id": "symbol"
+                  }
+                ]
+              },
+              {
+                "tag": "input"
+              },
+              {
+                "tag": "form",
+                "id": "logo",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": [
+                      "btn-large"
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "logo",
+                    "classes": [
+                      "btn",
+                      "stackbar",
+                      "stackarea"
+                    ],
+                    "children": [
+                      {
+                        "tag": "h2",
+                        "children": [
+                          {
+                            "tag": "h1",
+                            "classes": [
+                              "stackarea"
+                            ]
+                          },
+                          {
+                            "tag": "input",
+                            "id": "logo",
+                            "children": [
+                              {
+                                "tag": "input",
+                                "children": [
+                                  {
+                                    "tag": "div"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "id": "label",
+                            "classes": [
+                              "btn-primary"
+                            ],
+                            "children": [
+                              {
+                                "tag": "textarea",
+                                "children": [
+                                  {
+                                    "tag": "form",
+                                    "id": "label",
+                                    "classes": [
+                                      "stackbar"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "textarea",
+                            "id": "label",
+                            "classes": [
+                              "stackarea",
+                              "icon"
+                            ],
+                            "children": [
+                              {
+                                "tag": "div",
+                                "id": "symbol",
+                                "classes": [
+                                  "btn-large",
+                                  "btn-primary"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "id": "logo",
+                                    "classes": [
+                                      "icon"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "textarea",
+                                        "id": "logo",
+                                        "classes": [
+                                          "btn-large",
+                                          "btn-primary"
+                                        ]
+                                      },
+                                      {
+                                        "tag": "input",
+                                        "classes": [
+                                          "btn"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "input",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "btn-primary"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "id": "logo",
+                        "classes": [
+                          "btn-large",
+                          "btn",
+                          "stackarea"
+                        ],
+                        "children": [
+                          {
+                            "tag": "h2",
+                            "id": "logo",
+                            "children": [
+                              {
+                                "tag": "textarea",
+                                "classes": [
+                                  "btn-large",
+                                  "icon"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "stackbar",
+                                      "stackarea",
+                                      "btn-primary"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "input"
+                                      },
+                                      {
+                                        "tag": "form",
+                                        "id": "label"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "h1",
+                                    "classes": [
+                                      "btn-large",
+                                      "icon"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h2",
+                    "classes": [
+                      "icon"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "id": "logo",
+                    "classes": [
+                      "btn",
+                      "icon",
+                      "btn-primary"
+                    ],
+                    "children": [
+                      {
+                        "tag": "img",
+                        "children": [
+                          {
+                            "tag": "div",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "textarea",
+                                "id": "symbol",
+                                "classes": [
+                                  "btn"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "id": "logo",
+                                    "classes": [
+                                      "btn",
+                                      "stackarea"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "h1",
+                            "children": [
+                              {
+                                "tag": "input",
+                                "id": "symbol",
+                                "classes": [
+                                  "stackbar"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "id": "symbol",
+                                    "children": [
+                                      {
+                                        "tag": "div"
+                                      },
+                                      {
+                                        "tag": "input",
+                                        "id": "label",
+                                        "classes": [
+                                          "stackarea"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "img",
+                                            "id": "label",
+                                            "classes": [
+                                              "btn-primary"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "input",
+                                                "id": "symbol"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "img",
+                                        "id": "label",
+                                        "children": [
+                                          {
+                                            "tag": "textarea",
+                                            "id": "symbol",
+                                            "classes": [
+                                              "btn"
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "h2",
+                                        "children": [
+                                          {
+                                            "tag": "input",
+                                            "id": "label"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "img",
+                                        "id": "label",
+                                        "classes": [
+                                          "stackarea",
+                                          "stackbar",
+                                          "btn-large"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "h1",
+                                            "classes": [
+                                              "btn-large"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "form",
+                                                "id": "symbol",
+                                                "classes": [
+                                                  "btn"
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "tag": "input",
+                                                    "id": "logo"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "form",
+                                                "id": "logo",
+                                                "children": [
+                                                  {
+                                                    "tag": "input",
+                                                    "children": [
+                                                      {
+                                                        "tag": "textarea",
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "id": "logo",
+                                                            "classes": [
+                                                              "stackarea",
+                                                              "stackbar",
+                                                              "btn-primary"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "h1",
+                                            "id": "label"
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "id": "logo",
+                                            "classes": [
+                                              "btn",
+                                              "stackbar"
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "form",
+                                        "id": "label"
+                                      },
+                                      {
+                                        "tag": "textarea",
+                                        "id": "label",
+                                        "classes": [
+                                          "icon"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "classes": [
+                                              "stackbar"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "classes": [
+                                                  "btn"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "children": [
+                                      {
+                                        "tag": "h2",
+                                        "id": "logo",
+                                        "children": [
+                                          {
+                                            "tag": "h1",
+                                            "id": "logo",
+                                            "children": [
+                                              {
+                                                "tag": "img",
+                                                "id": "symbol",
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "id": "logo",
+                                                    "classes": [
+                                                      "stackbar",
+                                                      "btn",
+                                                      "icon"
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "id": "label",
+                                                        "classes": [
+                                                          "btn-large",
+                                                          "btn-primary"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "h2"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "textarea",
+                                "id": "logo",
+                                "classes": [
+                                  "btn-large"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "h2",
+                                    "id": "label",
+                                    "classes": [
+                                      "btn",
+                                      "stackbar",
+                                      "icon"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "form"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "img",
+            "id": "symbol",
+            "children": [
+              {
+                "tag": "form",
+                "id": "logo",
+                "children": [
+                  {
+                    "tag": "input",
+                    "id": "symbol",
+                    "classes": [
+                      "btn-primary",
+                      "btn-large"
+                    ]
+                  },
+                  {
+                    "tag": "h1",
+                    "id": "logo",
+                    "classes": [
+                      "stackbar",
+                      "icon"
+                    ]
+                  },
+                  {
+                    "tag": "textarea",
+                    "id": "label",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "symbol",
+                        "classes": [
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "logo",
+                            "classes": [
+                              "btn-primary"
+                            ],
+                            "children": [
+                              {
+                                "tag": "textarea",
+                                "id": "logo",
+                                "children": [
+                                  {
+                                    "tag": "form",
+                                    "id": "logo",
+                                    "classes": [
+                                      "btn-large"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "input",
+                                        "id": "logo",
+                                        "classes": [
+                                          "btn-primary"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "logo",
+                                    "classes": [
+                                      "icon"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "id": "logo",
+                                    "classes": [
+                                      "stackbar"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "div",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "form",
+                            "id": "symbol",
+                            "classes": [
+                              "btn-primary",
+                              "stackarea"
+                            ],
+                            "children": [
+                              {
+                                "tag": "img",
+                                "id": "logo",
+                                "classes": [
+                                  "btn-primary",
+                                  "stackarea"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "id": "logo",
+                                    "classes": [
+                                      "icon"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "id": "logo",
+                        "classes": [
+                          "btn"
+                        ],
+                        "children": [
+                          {
+                            "tag": "input",
+                            "id": "symbol",
+                            "classes": [
+                              "stackarea",
+                              "btn-primary"
+                            ],
+                            "children": [
+                              {
+                                "tag": "input"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "id": "symbol"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "classes": [
+                          "stackarea"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "h1",
+                                "children": [
+                                  {
+                                    "tag": "h2",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "btn-large"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "id": "symbol",
+                                    "children": [
+                                      {
+                                        "tag": "textarea"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "h2",
+                        "id": "symbol"
+                      },
+                      {
+                        "tag": "input",
+                        "id": "label"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "input",
+                "children": [
+                  {
+                    "tag": "div",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "children": [
+                          {
+                            "tag": "input",
+                            "id": "logo"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "form",
+                        "id": "logo",
+                        "classes": [
+                          "btn"
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "id": "logo"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "logo",
+                    "classes": [
+                      "stackbar"
+                    ],
+                    "children": [
+                      {
+                        "tag": "h2",
+                        "classes": [
+                          "icon"
+                        ]
+                      },
+                      {
+                        "tag": "h2",
+                        "id": "symbol",
+                        "children": [
+                          {
+                            "tag": "div",
+                            "id": "logo",
+                            "classes": [
+                              "btn-large",
+                              "btn-primary"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "img",
+                        "id": "symbol",
+                        "classes": [
+                          "stackarea",
+                          "icon",
+                          "btn-primary"
+                        ],
+                        "children": [
+                          {
+                            "tag": "div",
+                            "classes": [
+                              "btn",
+                              "stackarea",
+                              "icon"
+                            ],
+                            "children": [
+                              {
+                                "tag": "h1",
+                                "id": "logo",
+                                "children": [
+                                  {
+                                    "tag": "textarea",
+                                    "id": "label",
+                                    "classes": [
+                                      "btn",
+                                      "stackbar",
+                                      "btn-large"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "textarea",
+                                        "classes": [
+                                          "btn-primary"
+                                        ]
+                                      },
+                                      {
+                                        "tag": "form",
+                                        "id": "label",
+                                        "children": [
+                                          {
+                                            "tag": "input",
+                                            "id": "label",
+                                            "classes": [
+                                              "stackbar"
+                                            ]
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "classes": [
+                                              "icon",
+                                              "btn-large"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "form",
+                                                "classes": [
+                                                  "btn",
+                                                  "btn-primary"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "input",
+                                "id": "symbol",
+                                "classes": [
+                                  "icon",
+                                  "btn-large",
+                                  "stackbar"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "form",
+                                    "id": "label"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "form",
+                    "id": "logo",
+                    "children": [
+                      {
+                        "tag": "textarea",
+                        "children": [
+                          {
+                            "tag": "h2",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "div",
+                                "id": "logo",
+                                "children": [
+                                  {
+                                    "tag": "h1",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "stackarea",
+                                      "stackbar"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "textarea",
+                                        "id": "logo",
+                                        "classes": [
+                                          "stackbar"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "input",
+                                            "classes": [
+                                              "stackarea"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "form",
+                                                "id": "logo",
+                                                "classes": [
+                                                  "stackarea"
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "id": "label",
+                                                    "classes": [
+                                                      "btn-primary"
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "div",
+                                                    "id": "label",
+                                                    "children": [
+                                                      {
+                                                        "tag": "input",
+                                                        "id": "logo",
+                                                        "children": [
+                                                          {
+                                                            "tag": "form",
+                                                            "id": "logo"
+                                                          },
+                                                          {
+                                                            "tag": "h2",
+                                                            "id": "label",
+                                                            "classes": [
+                                                              "btn"
+                                                            ],
+                                                            "children": [
+                                                              {
+                                                                "tag": "h2",
+                                                                "id": "label",
+                                                                "classes": [
+                                                                  "btn-large",
+                                                                  "icon",
+                                                                  "stackbar"
+                                                                ],
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "img",
+                                                                    "id": "symbol"
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "id": "logo",
+                                                                "classes": [
+                                                                  "btn-primary",
+                                                                  "btn-large",
+                                                                  "icon"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "input",
+                                                            "classes": [
+                                                              "icon",
+                                                              "stackarea"
+                                                            ],
+                                                            "children": [
+                                                              {
+                                                                "tag": "h1",
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "h2",
+                                                                    "id": "label",
+                                                                    "classes": [
+                                                                      "btn-primary"
+                                                                    ],
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "id": "label",
+                                                                        "classes": [
+                                                                          "btn-large",
+                                                                          "btn-primary",
+                                                                          "stackarea",
+                                                                          "btn",
+                                                                          "icon"
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "h1",
+                                                "id": "label",
+                                                "classes": [
+                                                  "stackarea"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "children": [
+                                              {
+                                                "tag": "form",
+                                                "classes": [
+                                                  "icon",
+                                                  "stackbar",
+                                                  "btn-large"
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "tag": "textarea",
+                                                    "id": "label",
+                                                    "children": [
+                                                      {
+                                                        "tag": "h1",
+                                                        "id": "symbol"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "div",
+                                                    "id": "symbol",
+                                                    "classes": [
+                                                      "icon"
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "tag": "h2"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "h1",
+                                                "id": "symbol",
+                                                "children": [
+                                                  {
+                                                    "tag": "input"
+                                                  },
+                                                  {
+                                                    "tag": "textarea",
+                                                    "id": "logo",
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "children": [
+                                                          {
+                                                            "tag": "h2",
+                                                            "id": "logo",
+                                                            "classes": [
+                                                              "stackarea"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "tag": "form",
+                                                        "id": "logo"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "img",
+                                                "classes": [
+                                                  "icon"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "div"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "form",
+            "id": "label",
+            "children": [
+              {
+                "tag": "form",
+                "id": "label",
+                "children": [
+                  {
+                    "tag": "h2",
+                    "id": "symbol",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "id": "label"
+                      },
+                      {
+                        "tag": "input"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "img",
+                    "id": "logo",
+                    "classes": [
+                      "btn-large"
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "symbol",
+                    "children": [
+                      {
+                        "tag": "textarea",
+                        "classes": [
+                          "btn-primary"
+                        ]
+                      },
+                      {
+                        "tag": "form",
+                        "id": "logo",
+                        "children": [
+                          {
+                            "tag": "div",
+                            "classes": [
+                              "btn"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "textarea",
+                        "id": "symbol",
+                        "classes": [
+                          "stackarea"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "classes": [
+                              "btn-large"
+                            ],
+                            "children": [
+                              {
+                                "tag": "textarea",
+                                "id": "logo",
+                                "classes": [
+                                  "stackarea",
+                                  "icon",
+                                  "btn-large",
+                                  "btn",
+                                  "stackbar"
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "id": "logo"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "label"
+                  },
+                  {
+                    "tag": "img",
+                    "id": "logo",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "logo",
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "symbol"
+                          },
+                          {
+                            "tag": "img",
+                            "id": "symbol",
+                            "classes": [
+                              "stackarea",
+                              "btn-primary"
+                            ],
+                            "children": [
+                              {
+                                "tag": "input"
+                              },
+                              {
+                                "tag": "textarea",
+                                "id": "logo",
+                                "classes": [
+                                  "icon",
+                                  "stackarea",
+                                  "btn-primary",
+                                  "btn-large"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "input",
+                                    "classes": [
+                                      "btn",
+                                      "btn-primary"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "id": "logo"
+                                      },
+                                      {
+                                        "tag": "input",
+                                        "id": "label",
+                                        "classes": [
+                                          "btn"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "div"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "form"
+                                      },
+                                      {
+                                        "tag": "h1",
+                                        "id": "label",
+                                        "children": [
+                                          {
+                                            "tag": "img",
+                                            "classes": [
+                                              "stackarea"
+                                            ]
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "id": "label",
+                                            "classes": [
+                                              "stackarea"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "textarea",
+                                                "classes": [
+                                                  "btn-large"
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "tag": "input",
+                                                    "id": "label",
+                                                    "classes": [
+                                                      "icon",
+                                                      "btn"
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "form",
+                                                "id": "symbol",
+                                                "classes": [
+                                                  "icon",
+                                                  "btn-large"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "img",
+                                        "id": "label",
+                                        "classes": [
+                                          "stackbar",
+                                          "icon",
+                                          "btn",
+                                          "stackarea",
+                                          "btn-large"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "classes": [
+                                      "stackarea"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "input"
+                                  },
+                                  {
+                                    "tag": "img",
+                                    "id": "logo",
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "id": "logo"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "id": "logo",
+                                    "children": [
+                                      {
+                                        "tag": "input",
+                                        "id": "label",
+                                        "classes": [
+                                          "btn-primary",
+                                          "btn"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "id": "logo",
+                                            "classes": [
+                                              "icon"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "classes": [
+                                                  "stackbar"
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "tag": "form",
+                                                    "id": "symbol"
+                                                  },
+                                                  {
+                                                    "tag": "form"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "h2",
+                                            "classes": [
+                                              "btn-large",
+                                              "stackbar",
+                                              "btn-primary"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "classes": [
+                                                      "stackarea",
+                                                      "btn-large",
+                                                      "btn-primary"
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "div",
+                                                    "id": "logo",
+                                                    "classes": [
+                                                      "icon",
+                                                      "btn-primary"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "h1",
+                                        "id": "logo",
+                                        "children": [
+                                          {
+                                            "tag": "form",
+                                            "id": "label",
+                                            "children": [
+                                              {
+                                                "tag": "input",
+                                                "id": "symbol"
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "id": "logo",
+                                                "classes": [
+                                                  "icon"
+                                                ]
+                                              },
+                                              {
+                                                "tag": "form",
+                                                "id": "label",
+                                                "classes": [
+                                                  "stackarea"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "h1",
+                                        "id": "logo"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "id": "logo"
+                      },
+                      {
+                        "tag": "input",
+                        "id": "logo",
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "label"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "label",
+                    "children": [
+                      {
+                        "tag": "h2",
+                        "id": "logo",
+                        "classes": [
+                          "btn-primary"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "id": "logo",
+                "children": [
+                  {
+                    "tag": "input",
+                    "id": "label",
+                    "classes": [
+                      "btn-primary"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "h2",
+                "id": "label",
+                "classes": [
+                  "stackarea"
+                ],
+                "children": [
+                  {
+                    "tag": "h1",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "id": "logo",
+                        "classes": [
+                          "btn-primary"
+                        ],
+                        "children": [
+                          {
+                            "tag": "div",
+                            "id": "label",
+                            "classes": [
+                              "icon"
+                            ]
+                          },
+                          {
+                            "tag": "h1",
+                            "id": "symbol",
+                            "classes": [
+                              "btn-large",
+                              "btn"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "id": "symbol",
+                        "classes": [
+                          "stackbar"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "h1",
+                            "children": [
+                              {
+                                "tag": "textarea",
+                                "id": "label"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "classes": [
+                              "btn"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "id": "symbol"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "form",
+                    "classes": [
+                      "icon"
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "symbol"
+                  },
+                  {
+                    "tag": "input",
+                    "children": [
+                      {
+                        "tag": "img",
+                        "id": "logo",
+                        "classes": [
+                          "icon"
+                        ]
+                      },
+                      {
+                        "tag": "img",
+                        "id": "symbol",
+                        "children": [
+                          {
+                            "tag": "div"
+                          },
+                          {
+                            "tag": "input",
+                            "id": "symbol",
+                            "classes": [
+                              "btn"
+                            ]
+                          },
+                          {
+                            "tag": "input",
+                            "classes": [
+                              "btn"
+                            ]
+                          },
+                          {
+                            "tag": "input",
+                            "classes": [
+                              "stackarea"
+                            ],
+                            "children": [
+                              {
+                                "tag": "h1",
+                                "id": "label"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "h2",
+                            "id": "symbol",
+                            "classes": [
+                              "btn-primary",
+                              "stackarea"
+                            ],
+                            "children": [
+                              {
+                                "tag": "h1",
+                                "id": "label"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "img"
+              }
+            ]
+          },
+          {
+            "tag": "h2",
+            "id": "label",
+            "children": [
+              {
+                "tag": "div",
+                "children": [
+                  {
+                    "tag": "h1",
+                    "classes": [
+                      "btn-large",
+                      "btn-primary",
+                      "stackarea",
+                      "icon"
+                    ],
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "label"
+                      },
+                      {
+                        "tag": "div",
+                        "id": "symbol",
+                        "classes": [
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "h2",
+                            "id": "symbol",
+                            "classes": [
+                              "stackarea"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "id": "logo",
+                    "children": [
+                      {
+                        "tag": "h2",
+                        "classes": [
+                          "btn-large",
+                          "stackbar",
+                          "btn-primary",
+                          "stackarea",
+                          "icon",
+                          "btn"
+                        ]
+                      },
+                      {
+                        "tag": "form",
+                        "id": "logo",
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "logo",
+                            "classes": [
+                              "btn-primary",
+                              "icon"
+                            ]
+                          },
+                          {
+                            "tag": "input",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "h1",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "div",
+                                "id": "symbol",
+                                "classes": [
+                                  "stackbar"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "form"
+                                  },
+                                  {
+                                    "tag": "input",
+                                    "id": "symbol",
+                                    "children": [
+                                      {
+                                        "tag": "form",
+                                        "id": "label",
+                                        "children": [
+                                          {
+                                            "tag": "img",
+                                            "classes": [
+                                              "btn-primary",
+                                              "btn-large"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "img",
+                                                "id": "logo"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "id": "logo"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "h2",
+                                "id": "label"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "img",
+                            "classes": [
+                              "icon",
+                              "btn-primary",
+                              "stackarea",
+                              "btn"
+                            ],
+                            "children": [
+                              {
+                                "tag": "div",
+                                "id": "symbol",
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "id": "label"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "children": [
+                          {
+                            "tag": "img",
+                            "id": "symbol",
+                            "classes": [
+                              "btn-primary"
+                            ]
+                          },
+                          {
+                            "tag": "h2",
+                            "id": "label"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "h2",
+                        "classes": [
+                          "stackarea",
+                          "btn"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "classes": [
+                      "stackarea"
+                    ]
+                  },
+                  {
+                    "tag": "div"
+                  },
+                  {
+                    "tag": "img",
+                    "id": "symbol"
+                  },
+                  {
+                    "tag": "h1",
+                    "id": "symbol",
+                    "classes": [
+                      "btn-primary",
+                      "btn",
+                      "btn-large"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": [
+                  "icon"
+                ],
+                "children": [
+                  {
+                    "tag": "h2",
+                    "id": "logo",
+                    "classes": [
+                      "btn-large"
+                    ],
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "symbol",
+                        "classes": [
+                          "icon",
+                          "btn",
+                          "btn-large"
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "id": "label",
+                        "classes": [
+                          "icon",
+                          "btn-large"
+                        ],
+                        "children": [
+                          {
+                            "tag": "img",
+                            "id": "symbol",
+                            "classes": [
+                              "stackarea"
+                            ],
+                            "children": [
+                              {
+                                "tag": "h2",
+                                "id": "logo"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "h2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "textarea",
+        "classes": [
+          "btn"
+        ],
+        "children": [
+          {
+            "tag": "textarea"
+          }
+        ]
+      },
+      {
+        "tag": "input",
+        "id": "symbol",
+        "classes": [
+          "stackarea",
+          "btn"
+        ],
+        "children": [
+          {
+            "tag": "input",
+            "classes": [
+              "btn"
+            ],
+            "children": [
+              {
+                "tag": "img",
+                "id": "label",
+                "classes": [
+                  "btn",
+                  "stackarea",
+                  "stackbar"
+                ],
+                "children": [
+                  {
+                    "tag": "input",
+                    "id": "symbol",
+                    "classes": [
+                      "btn",
+                      "icon"
+                    ],
+                    "children": [
+                      {
+                        "tag": "form"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": [
+                      "btn-large",
+                      "btn"
+                    ],
+                    "children": [
+                      {
+                        "tag": "form",
+                        "id": "logo"
+                      },
+                      {
+                        "tag": "h2"
+                      },
+                      {
+                        "tag": "input",
+                        "id": "label",
+                        "classes": [
+                          "btn"
+                        ],
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "symbol",
+                            "children": [
+                              {
+                                "tag": "input",
+                                "id": "logo"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "textarea",
+                            "id": "logo"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "label",
+                    "classes": [
+                      "btn-primary"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "input",
+                "id": "symbol",
+                "children": [
+                  {
+                    "tag": "h1",
+                    "id": "label",
+                    "classes": [
+                      "btn-primary",
+                      "stackarea"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "input",
+                "children": [
+                  {
+                    "tag": "form",
+                    "id": "label",
+                    "classes": [
+                      "stackarea"
+                    ],
+                    "children": [
+                      {
+                        "tag": "h1",
+                        "id": "symbol",
+                        "classes": [
+                          "btn-large"
+                        ],
+                        "children": [
+                          {
+                            "tag": "input",
+                            "id": "symbol",
+                            "children": [
+                              {
+                                "tag": "form",
+                                "id": "label",
+                                "children": [
+                                  {
+                                    "tag": "form",
+                                    "id": "label",
+                                    "classes": [
+                                      "icon"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "form",
+                                        "id": "symbol",
+                                        "classes": [
+                                          "icon",
+                                          "stackbar"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "input",
+                                            "id": "logo",
+                                            "classes": [
+                                              "btn"
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "h1",
+                                    "children": [
+                                      {
+                                        "tag": "h1",
+                                        "id": "label"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "img",
+                                "classes": [
+                                  "btn-primary",
+                                  "btn",
+                                  "stackarea"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "id": "symbol"
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "textarea",
+                                "children": [
+                                  {
+                                    "tag": "textarea",
+                                    "classes": [
+                                      "stackarea",
+                                      "icon",
+                                      "stackbar"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "input",
+                                    "classes": [
+                                      "btn-large"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "id": "logo",
+                                        "classes": [
+                                          "btn-primary"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "h1",
+                                            "id": "label"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "id": "logo",
+                                        "classes": [
+                                          "icon"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "btn"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "img",
+                                    "id": "label"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "div",
+                            "id": "logo",
+                            "classes": [
+                              "icon",
+                              "btn-primary"
+                            ],
+                            "children": [
+                              {
+                                "tag": "h2",
+                                "id": "symbol",
+                                "children": [
+                                  {
+                                    "tag": "input",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "btn-primary",
+                                      "stackbar",
+                                      "btn"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "symbol"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "textarea",
+                            "id": "label",
+                            "classes": [
+                              "stackbar",
+                              "btn-primary"
+                            ],
+                            "children": [
+                              {
+                                "tag": "img",
+                                "classes": [
+                                  "stackarea",
+                                  "btn-large"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "form",
+                                    "id": "logo",
+                                    "classes": [
+                                      "stackarea",
+                                      "btn",
+                                      "stackbar",
+                                      "btn-large"
+                                    ]
+                                  },
+                                  {
+                                    "tag": "textarea",
+                                    "id": "symbol"
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "classes": [
+                                      "btn-large"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "form",
+                                        "classes": [
+                                          "stackarea",
+                                          "icon"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "h2",
+                                "id": "symbol",
+                                "classes": [
+                                  "btn-large",
+                                  "stackarea"
+                                ]
+                              },
+                              {
+                                "tag": "textarea",
+                                "id": "logo"
+                              },
+                              {
+                                "tag": "input",
+                                "id": "logo",
+                                "classes": [
+                                  "btn"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "h2",
+                                    "id": "label",
+                                    "classes": [
+                                      "btn-primary"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "img",
+                                        "classes": [
+                                          "btn"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "id": "logo",
+                        "classes": [
+                          "btn-primary",
+                          "btn-large",
+                          "stackarea"
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": [
+                          "btn"
+                        ],
+                        "children": [
+                          {
+                            "tag": "h2",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "h2",
+                            "id": "label",
+                            "children": [
+                              {
+                                "tag": "form",
+                                "id": "symbol",
+                                "classes": [
+                                  "btn-large",
+                                  "stackarea",
+                                  "icon"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "input"
+                                  },
+                                  {
+                                    "tag": "div",
+                                    "id": "logo",
+                                    "children": [
+                                      {
+                                        "tag": "h2",
+                                        "id": "logo",
+                                        "classes": [
+                                          "stackarea"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "form",
+                                            "id": "label",
+                                            "classes": [
+                                              "stackbar",
+                                              "stackarea"
+                                            ],
+                                            "children": [
+                                              {
+                                                "tag": "form",
+                                                "id": "logo",
+                                                "classes": [
+                                                  "btn-primary",
+                                                  "btn-large",
+                                                  "icon",
+                                                  "stackarea",
+                                                  "stackbar"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "id": "label"
+                                      },
+                                      {
+                                        "tag": "input",
+                                        "id": "symbol",
+                                        "classes": [
+                                          "btn"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "input",
+                                    "classes": [
+                                      "btn-primary"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "div"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "img",
+                                    "classes": [
+                                      "btn"
+                                    ],
+                                    "children": [
+                                      {
+                                        "tag": "input",
+                                        "id": "logo",
+                                        "classes": [
+                                          "btn-primary",
+                                          "btn-large",
+                                          "btn"
+                                        ],
+                                        "children": [
+                                          {
+                                            "tag": "img",
+                                            "classes": [
+                                              "stackbar"
+                                            ]
+                                          },
+                                          {
+                                            "tag": "form",
+                                            "id": "label"
+                                          },
+                                          {
+                                            "tag": "input",
+                                            "id": "label",
+                                            "classes": [
+                                              "btn",
+                                              "stackbar"
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "textarea",
+                                "id": "label",
+                                "classes": [
+                                  "btn-large"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "id": "symbol"
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "id": "logo",
+                                    "children": [
+                                      {
+                                        "tag": "h2",
+                                        "id": "symbol",
+                                        "classes": [
+                                          "icon"
+                                        ]
+                                      },
+                                      {
+                                        "tag": "h2",
+                                        "classes": [
+                                          "btn-large",
+                                          "icon",
+                                          "btn"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "img",
+                            "id": "symbol",
+                            "classes": [
+                              "btn"
+                            ],
+                            "children": [
+                              {
+                                "tag": "img",
+                                "id": "symbol",
+                                "classes": [
+                                  "btn"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "form"
+                          },
+                          {
+                            "tag": "div",
+                            "classes": [
+                              "stackarea",
+                              "stackbar"
+                            ]
+                          },
+                          {
+                            "tag": "input",
+                            "id": "logo",
+                            "classes": [
+                              "btn",
+                              "btn-large"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "id": "symbol",
+                        "classes": [
+                          "stackarea"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "form",
+                    "id": "label",
+                    "children": [
+                      {
+                        "tag": "form",
+                        "id": "logo",
+                        "classes": [
+                          "btn-large"
+                        ],
+                        "children": [
+                          {
+                            "tag": "div",
+                            "id": "symbol",
+                            "classes": [
+                              "stackarea"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": [
+                          "btn"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "h2",
+            "id": "symbol",
+            "children": [
+              {
+                "tag": "div",
+                "children": [
+                  {
+                    "tag": "div",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "id": "symbol",
+                        "classes": [
+                          "btn-large"
+                        ],
+                        "children": [
+                          {
+                            "tag": "div",
+                            "classes": [
+                              "icon"
+                            ],
+                            "children": [
+                              {
+                                "tag": "form"
+                              },
+                              {
+                                "tag": "img",
+                                "id": "label",
+                                "classes": [
+                                  "btn-large",
+                                  "stackarea",
+                                  "icon",
+                                  "btn-primary"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "h2",
+                            "id": "symbol"
+                          },
+                          {
+                            "tag": "form",
+                            "id": "symbol",
+                            "classes": [
+                              "icon",
+                              "btn",
+                              "stackarea",
+                              "stackbar"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "input",
+                "id": "logo",
+                "children": [
+                  {
+                    "tag": "div",
+                    "id": "logo",
+                    "classes": [
+                      "stackarea"
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "symbol"
+                  }
+                ]
+              },
+              {
+                "tag": "img",
+                "id": "symbol",
+                "children": [
+                  {
+                    "tag": "textarea",
+                    "id": "symbol",
+                    "classes": [
+                      "stackarea",
+                      "btn-primary"
+                    ],
+                    "children": [
+                      {
+                        "tag": "div",
+                        "id": "label",
+                        "classes": [
+                          "stackarea",
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "h1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "img",
+                    "id": "symbol",
+                    "classes": [
+                      "icon",
+                      "stackarea"
+                    ],
+                    "children": [
+                      {
+                        "tag": "img",
+                        "classes": [
+                          "btn"
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "classes": [
+                          "stackbar",
+                          "stackarea",
+                          "btn",
+                          "icon"
+                        ]
+                      },
+                      {
+                        "tag": "input",
+                        "children": [
+                          {
+                            "tag": "form",
+                            "id": "logo",
+                            "classes": [
+                              "btn-large"
+                            ],
+                            "children": [
+                              {
+                                "tag": "h1",
+                                "id": "logo",
+                                "classes": [
+                                  "stackarea",
+                                  "btn-primary",
+                                  "btn-large",
+                                  "stackbar"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "input"
+                                  },
+                                  {
+                                    "tag": "input",
+                                    "id": "symbol",
+                                    "classes": [
+                                      "btn-large"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "id": "logo",
+                                "classes": [
+                                  "icon",
+                                  "stackarea",
+                                  "btn",
+                                  "btn-large"
+                                ],
+                                "children": [
+                                  {
+                                    "tag": "h2",
+                                    "id": "logo"
+                                  },
+                                  {
+                                    "tag": "form",
+                                    "classes": [
+                                      "icon"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "form",
+                                "id": "label"
+                              },
+                              {
+                                "tag": "input"
+                              },
+                              {
+                                "tag": "form",
+                                "id": "symbol",
+                                "classes": [
+                                  "stackarea",
+                                  "stackbar"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "input"
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "id": "label",
+            "classes": [
+              "btn"
+            ],
+            "children": [
+              {
+                "tag": "div",
+                "id": "label",
+                "classes": [
+                  "icon",
+                  "btn",
+                  "btn-primary"
+                ],
+                "children": [
+                  {
+                    "tag": "div",
+                    "id": "label",
+                    "classes": [
+                      "stackarea"
+                    ],
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": [
+                          "icon",
+                          "stackbar",
+                          "stackarea"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "form",
+            "classes": [
+              "icon",
+              "btn-large"
+            ],
+            "children": [
+              {
+                "tag": "div",
+                "id": "symbol"
+              },
+              {
+                "tag": "div",
+                "id": "logo",
+                "classes": [
+                  "btn"
+                ],
+                "children": [
+                  {
+                    "tag": "h1",
+                    "id": "label",
+                    "children": [
+                      {
+                        "tag": "form"
+                      },
+                      {
+                        "tag": "form",
+                        "id": "label",
+                        "classes": [
+                          "icon"
+                        ],
+                        "children": [
+                          {
+                            "tag": "input",
+                            "id": "label"
+                          },
+                          {
+                            "tag": "input",
+                            "children": [
+                              {
+                                "tag": "div"
+                              },
+                              {
+                                "tag": "img",
+                                "id": "logo"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "textarea",
+                "id": "logo",
+                "children": [
+                  {
+                    "tag": "h2",
+                    "id": "label",
+                    "classes": [
+                      "stackbar"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": [
+              "icon",
+              "btn-large",
+              "stackarea"
+            ],
+            "children": [
+              {
+                "tag": "div",
+                "id": "label"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "id": "symbol",
+        "children": [
+          {
+            "tag": "form",
+            "classes": [
+              "stackarea",
+              "btn-large",
+              "icon"
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": [
+              "btn-primary",
+              "btn-large"
+            ],
+            "children": [
+              {
+                "tag": "div",
+                "id": "symbol",
+                "classes": [
+                  "btn",
+                  "icon"
+                ]
+              },
+              {
+                "tag": "textarea",
+                "id": "symbol",
+                "children": [
+                  {
+                    "tag": "h2",
+                    "id": "label",
+                    "classes": [
+                      "stackbar"
+                    ],
+                    "children": [
+                      {
+                        "tag": "form",
+                        "id": "symbol"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "input",
+                    "id": "logo"
+                  },
+                  {
+                    "tag": "form",
+                    "id": "logo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tests": [
+    "input#symbol input.btn-primary"
+  ]
+}

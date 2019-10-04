@@ -1,0 +1,68 @@
+{
+    "key" : "Earth",
+    "subregions" : [
+        {
+            "key" : "Europe",
+            "subregions" : [
+                {
+                    "key" : "Germany",
+                    "subregions" : [
+                        {"key" : "Berlin"}
+                    ]
+                }
+            ]
+        },
+        {
+            "key" : "North America",
+            "subregions" : [
+                {
+                    "key" : "United States",
+                    "subregions" : [
+                        {
+                            "key" : "California",
+                            "subregions" : [
+                                {"key":"Los Angeles"},
+                                {"key":"San Francisco"}
+                            ]
+                        },
+                        {
+                            "key" : "Texas",
+                            "subregions" : [
+                                {"key":"Houston"},
+                                {"key":"Austin"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key" : "Mexico",
+                    "subregions" : [
+                        {
+                            "key" : "Jalisco",
+                            "subregions" : [
+                                {"key":"Guadalajara"},
+                                {"key":"Zapopan"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key" : "Asia",
+            "subregions" : [
+                {
+                    "key" : "Japan",
+                    "subregions" : [
+                        {
+                            "key" : "Kansai",
+                            "subregions" : [
+                                {"key":"Kyoto"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

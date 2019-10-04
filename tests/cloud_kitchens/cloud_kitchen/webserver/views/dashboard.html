@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <style>
+            body{
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #title{
+                font-size: 28px;
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 10px
+            }
+            .subtitle{
+
+            }
+            .container{
+                padding: 20px;
+            }
+            .shelf{
+                float:left;
+                width: 25%;
+            }
+            .order{
+                padding: 10px;
+                background-color: #f0f0f0;
+                margin: 5px;
+            }
+            #btn-start{
+                padding:10px;
+                background-color: #e0e0e0;
+                border: 1px solid #999;
+                color: #000;
+                cursor: pointer;
+            }
+        </style>
+		<meta charset="UTF-8">
+		<title>Cloud Kitchen</title>
+	</head>
+    <body>
+            
+        <div class="container">
+            <h1 id="title">Cloud Kitchen</h1>
+            <div style="text-align:center; margin-top: 30px; margin-bottom: 30px; ">
+                <a id="btn-start">Start processing orders</a>
+            </div>
+            <div id="shelves">
+
+            </div>
+        </div>
+        
+        <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+        <script language="javascript"></script>
+
+	</body>
+</html>
+
+
+
+
+
